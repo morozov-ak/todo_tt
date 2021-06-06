@@ -12,3 +12,5 @@ docker build -t todo_tt .
 
 или:
 docker run -d -p 3000:3000 --name todo todo_tt
+
+Если есть вопросы, то можно написать в telegram: @morozov_ak
